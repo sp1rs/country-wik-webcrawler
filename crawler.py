@@ -1,4 +1,10 @@
 
+######################### Web Crawler ###############################
+	### Author : Shashank Parekh ###
+	### Language : Python  ###
+####################################################################
+
+
 import sys 
 
 ## To Extract link from the html doc

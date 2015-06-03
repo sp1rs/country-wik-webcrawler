@@ -6,6 +6,7 @@ Before running the script , just keep in mind that <h4>BeautifulSoup</h4> and <h
 To install the package , use pip to install the package something like this
 <br>
 1.) pip install urllib2 
+<br>
 2.)pip install BeautifulSoup
 <br>
 
